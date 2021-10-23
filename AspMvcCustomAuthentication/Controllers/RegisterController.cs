@@ -11,7 +11,6 @@ namespace AspMvcCustomAuthentication.Controllers
 {
     public class RegisterController : Controller
     {
-        //public string value = "";
 
         // GET: Register
         public ActionResult Index()
